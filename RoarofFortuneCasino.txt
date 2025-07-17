@@ -1,5 +1,5 @@
 Config
 {
-    "isFlagOn": true,
-    "linkToOpen": "https://winfb244.6rwin55.com/m/register"
+    "isFlagOn": false,
+    "linkToOpen": ""
 }
